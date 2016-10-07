@@ -1,0 +1,4 @@
+Preprocessing JSON and XML files (tweets) with R and Python.
+  -Sanitizing (remove punctuation, external links)
+  -Stopwords list in french and english
+  
