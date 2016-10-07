@@ -1,0 +1,43 @@
+#Chiffres, termes usuels de twitter
+"0","1","2","3","4","5","6","7","8","9","rt","tco","amp",
+#Français
+		#Verbes
+	#Avoir	
+	"a","ai","aie","aient","aies","ait","aura","as",
+	"aurai","auraient","aurais","aurait","auras",
+	"aurez","auriez","aurions","aurons","auront",
+	"avaient","avais","avait","avez","aviez","avions",
+	"avoir","avons","ayant","ayez","ayons","eu","eue",
+	"eues","eûmes","eurent","eus","eusse","eussent",
+	"eusses","eussiez","eussions","eut","eût","eûtes","ont",
+	#Etre
+	"étant","été","étée","étées","êtes","étés","étiez",
+	"étions","être","es","est","étaient","étais","était",
+	"fûmes","furent","fus","fusse","fussent","fusses",
+	"fussiez","fussions","fut","fût","fûtes","sera",
+	"serai","seraient","serais","serait","seras","serez"
+	"seriez","serions","serons","seront","sont","soient",
+	"sois","soit","sommes","soyez","soyons","suis",
+	#Autres
+	"devrait","fait","fais","faites","font","aller","vas",
+	"vois","sais","dois","doit","voient","peut","crois",
+	"vont","veux","dis","prendre","vu","faire",
+		#Pronoms
+	"j","je","vos","votre","vous","il","ils","elle","elles",
+	"tes","toi","ton","leur","leurs","lui","m","ma","me","mes",
+	"moi","nos","notre","nous","on","sa","ses","son","sien","mon",
+	"mien","ta","tu","eux","soi",	
+		#Adverbes,conjonctions,etc
+	"à","alors","au","aucun","aucuns","aussi","autre","aux",
+	"avant","avec","bon","c","ça","car","ce","ceci","cela",
+	"celà","ces","cet","cette","ceux","chaque","ci","comme",
+	"comment","d","dans","de","début","dedans","dehors",
+	"depuis","des","donc","dos","du","en","encore","essai",
+	"et","état","fois","hors","ici","juste","l","la","là",
+	"le","les","maintenant","mais","même","moins","mot","n","ne",
+	"ni","nommés","ou","où","par","parce","pas","peu","plupart","pour",
+	"pourquoi","qu","quand","que","quel","quelle","quelles","quels",
+	"qui","s","sans","se","seulement","si","sous","sujet","sur",
+	"t","tandis","te","tellement","tels","tous","tout","très","trop",
+	"un","une","y","z","plus","quelqu","non","toujours","pendant",
+	"oui","merci","jamais","déjà","rien","après","quoi","chez","voici"
